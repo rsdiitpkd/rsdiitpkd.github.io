@@ -5,40 +5,47 @@ type = "page"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## 1. Who can participate in RSD?
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+PhD scholars and postgraduate (Master’s) students from any institute, including IIT Palakkad are welcome to participate in the RSD.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## 2. Can students from other institutes participate in all events?
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+External students can participate only in the poster presentation. However, they are welcome to attend and be part of the audience for all other events such as expert talks, flash talks, research talks, and panel discussions.
 
-## 2. WHAT ARE THE POSTAL RATES?
+## 3. Is food and accommodation available?
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+Food will be provided to registered participants during the event.
+Accommodation, however, cannot be provided.
 
-## 3. DO YOU SEND OVERSEAS?
+## 4. Is there any registration charge for the event?
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+There is no registration fee for participants from IIT Palakkad.
+External participants will have a nominal registration charge.
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+## 5. What are the benefits of participating in RSD?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Participants gain multiple advantages, including:
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+- A platform to showcase research through posters, talks, and flash presentations
+- Opportunities to learn from expert speakers and discover emerging research trends
+- Interaction with peers, faculty, and industry professionals
+- Exposure to state-of-the-art facilities and 11 departments of IIT Palakkad
+- A chance to build collaborations, sharpen communication skills, and receive constructive feedback
 
-## 5. ANOTHER IMPORTANT QUESTION
+## 6. How can external participants register for the event?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+External participants can register through the official registration link provided on the event webpage. All required instructions and deadlines will be mentioned in the form.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## 7. Will certificates be provided?
+
+Yes. All registered participants, including externals, will receive certificates of participation. Presenters will receive certificates acknowledging their contribution.
+
+
+## 9. Can external participants submit more than one poster?
+
+A participant should submit only one poster. The template of the poster will be shared within the registration form.
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> In case you haven't found the answer for your question please feel free to contact us.
