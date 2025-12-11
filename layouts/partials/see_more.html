@@ -1,6 +1,7 @@
 {{ if isset .Site.Params "see_more" }}
 {{ if .Site.Params.see_more.enable }}
 <section class="bar background-image-fixed-2 no-mb color-white text-center">
+{{ if false }}
     <div class="dark-mask"></div>
     <div class="container">
         <div class="row">
@@ -23,6 +24,7 @@
             </div>
         </div>
     </div>
+{{ end }}
 </section>
 {{ end }}
 {{ end }}
