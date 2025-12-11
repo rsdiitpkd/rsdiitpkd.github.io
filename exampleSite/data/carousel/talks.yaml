@@ -1,0 +1,9 @@
+weight: 2
+title: "Talks"
+description: >
+  <ul class="list-style-none">
+    <li>Research Talks</li>
+    <li>Flash Talks</li>
+  </ul>
+image: "img/iitpkd/carousel/talks.jpg"
+href: "#"
