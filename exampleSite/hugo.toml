@@ -39,22 +39,50 @@ pluralizelisttitles = false
     weight     = 3
 
 [[menu.main]]
+    name       = "Expert Talks"
+    url        = "/attractions/expert-talks"
+    weight     = 1
+    parent     = "menu.attractions"
+    post       = 1
+
+[[menu.main]]
     name       = "Research Talks"
-    url        = "#"
+    url        = "/attractions/research-talks"
     weight     = 1
     parent     = "menu.attractions"
     post       = 1
 
 [[menu.main]]
     name       = "Flash Talks"
-    url        = "#"
+    url        = "/attractions/flash-talks"
+    weight     = 1
+    parent     = "menu.attractions"
+    post       = 1
+
+[[menu.main]]
+    name       = "Poster Presentation"
+    url        = "/attractions/poster-presentation"
+    weight     = 1
+    parent     = "menu.attractions"
+    post       = 1
+
+[[menu.main]]
+    name       = "Panel Discussions"
+    url        = "/attractions/panel-discussions"
+    weight     = 1
+    parent     = "menu.attractions"
+    post       = 1
+
+[[menu.main]]
+    name       = "Intro to Departments"
+    url        = "/attractions/intro-to-depts"
     weight     = 1
     parent     = "menu.attractions"
     post       = 1
 
 [[menu.main]]
     name       = "About RSD"
-    url        = ""
+    url        = "/about/"
     weight     = 2
 
 [[menu.main]]
