@@ -61,7 +61,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Poster Presentation"
-    url        = "/attractions/poster-presentation"
+    url        = "/attractions/poster"
     weight     = 1
     parent     = "menu.attractions"
     post       = 1
