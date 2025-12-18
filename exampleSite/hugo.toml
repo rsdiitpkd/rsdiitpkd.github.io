@@ -264,3 +264,7 @@ pluralizelisttitles = false
     category = "categories"
     tag = "tags"
     author = "authors"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
