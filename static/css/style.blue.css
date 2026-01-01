@@ -1227,6 +1227,12 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 0;
   letter-spacing: 0.10em;
 }
+.home-carousel a {
+	color: yellow;
+}
+.home-carousel a:hover {
+	color: yellow;
+}
 @media (max-width: 991px) {
   .home-carousel ul,
   .home-carousel p {
