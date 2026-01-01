@@ -188,7 +188,7 @@ pluralizelisttitles = false
     dropdown_mouse_over = false
 
     disabled_logo = false
-    logo_text = "Universal"
+    logo_text = "RSD 8.0"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
