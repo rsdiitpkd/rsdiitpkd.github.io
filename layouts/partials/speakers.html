@@ -1,0 +1,21 @@
+{{ if isset .Site.Data "speakers" }}
+{{ if gt (len .Site.Data.speakers) 0 }}
+<section class="bar background-pentagon no-mb">
+    <div class="heading text-center">
+        <h2>Keynote Speakers</h2>
+    </div>
+    <div class="container speakers">
+        {{ range .Site.Data.speakers }}
+            <div>
+                <div class="box-simple">
+                    <img class="" alt="" src="{{ .avatar | absURL }}">
+                    <h3>{{ .name | markdownify }}</h3>
+                    <p class="position">{{ .position | markdownify }}</p>
+                    <p>{{ .text | markdownify }}</p>
+                </div>
+            </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+{{ end }}

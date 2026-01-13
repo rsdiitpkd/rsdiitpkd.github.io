@@ -14,3 +14,28 @@
 .box-simple {
     min-height: 230px;
 }
+
+.speakers {
+	margin: auto;
+	display: flex;
+}
+
+.speakers > div {
+	margin-left: 3em;
+	margin-right: 3em;
+}
+
+.speakers p {
+	text-align: left;
+}
+
+.speakers img {
+  width: 300px;
+  border-radius: 30px;
+  margin-left: 10px;
+}
+
+.speakers .position {
+	text-align: center;
+	font-weight: bold;
+}
