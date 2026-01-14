@@ -81,6 +81,7 @@ pluralizelisttitles = false
     post       = 1
 
 [[menu.main]]
+    identifier = "about"
     name       = "About RSD"
     url        = "/about/"
     weight     = 2
@@ -89,18 +90,25 @@ pluralizelisttitles = false
     name       = "Our Team"
     url        = ""
     weight     = 10
+    parent     = "about"
 
 [[menu.main]]
     name       = "FAQ"
     identifier = "menu.faq"
     url        = "/faq/"
+    weight     = 7
+
+[[menu.main]]
+    name       = "submit"
+    identifier = "menu.submit"
+    url        = "/submit/"
     weight     = 6
 
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 7
+    weight     = 8
 
 
 # Top bar social links menu
