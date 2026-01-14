@@ -44,7 +44,7 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "menu.attractions"
     post       = 1
-[[menus.main]]
+[[menu.main]]
   name = "Our Team"
   pageRef = "/team"
   weight = 4
@@ -87,11 +87,6 @@ pluralizelisttitles = false
     name       = "About RSD"
     url        = "/about/"
     weight     = 2
-
-[[menu.main]]
-    name       = "Our Team"
-    url        = ""
-    weight     = 10
 
 [[menu.main]]
     name       = "FAQ"
