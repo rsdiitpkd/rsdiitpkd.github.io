@@ -44,7 +44,10 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "menu.attractions"
     post       = 1
-
+[[menus.main]]
+  name = "Our Team"
+  pageRef = "/team"
+  weight = 4
 [[menu.main]]
     name       = "Research Talks"
     url        = "/attractions/research-talks"

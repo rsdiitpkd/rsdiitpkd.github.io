@@ -1,0 +1,69 @@
+faculty:
+  - name: "Dr. Prasanna Bhat"
+    designation: "Assistant Professor"
+    department: "Biological Science and Engineering"
+    image: "/hugo-universal-theme/img/team/prasanna-bhat.jpg"
+  - name: "Dr. B Sridharan"
+    designation: "Assistant Professor"
+    department: "Civil Engineering"
+    image: "/hugo-universal-theme/img/team/sridharan.jpg"
+
+student_coordinator:
+  - name: "Chamind Erakkil"
+    designation: "Research Affairs Secretary"
+    image: "/hugo-universal-theme/img/team/chamind-erakkil.jpg"
+
+pravaha_teams:
+  - title: "Technical Talks Team"
+    members:
+      - name: "Jithin Das M"
+        image: "/hugo-universal-theme/img/team/jithin-das.jpg"
+      - name: "Athira S"
+        image: "/hugo-universal-theme/img/team/athira-s.jpg"
+
+  - title: "Poster Presentation Team"
+    members:
+      - name: "Ajay Krishnan V"
+        image: "/hugo-universal-theme/img/team/ajay-krishnan.jpg"
+      - name: "Kiran C"
+        image: "/hugo-universal-theme/img/team/kiran-c.jpg"
+
+  - title: "Sponsorship Team"
+    members:
+      - name: "Navaneetha E P"
+        image: "/hugo-universal-theme/img/team/navaneetha-ep.jpg"
+      - name: "Yusra Moidutty"
+        image: "/hugo-universal-theme/img/team/yusra-moidutty.jpg"
+
+  - title: "Outreach & Registration Team"
+    members:
+      - name: "Athul Krishna P V"
+        image: "/hugo-universal-theme/img/team/athul-krishna.jpg"
+      - name: "Devika V"
+        image: "/hugo-universal-theme/img/team/devika-v.jpg"
+
+  - title: "Website & Pre-events Team"
+    members:
+      - name: "Nandakumar E"
+        image: "/hugo-universal-theme/img/team/nandakumar-e.jpg"
+
+  - title: "Cultural Events Team"
+    members:
+      - name: "Aiswarya G R"
+        image: "/hugo-universal-theme/img/team/aiswarya-gr.jpg"
+      - name: "Amish Kumar Aman"
+        image: "/hugo-universal-theme/img/team/amish-kumar.jpg"
+
+  - title: "Venue Management & Hospitality Team"
+    members:
+      - name: "Anand Praveen"
+        image: "/hugo-universal-theme/img/team/anand-praveen.jpg"
+      - name: "Athira Manoharan"
+        image: "/hugo-universal-theme/img/team/athira-manoharan.jpg"
+
+  - title: "Merchandise Team"
+    members:
+      - name: "Hrithik Suresh"
+        image: "/hugo-universal-theme/img/team/hrithik-suresh.jpg"
+      - name: "Pranav U S"
+        image: "/hugo-universal-theme/img/team/pranav-us.jpg"

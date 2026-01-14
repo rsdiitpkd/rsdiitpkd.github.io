@@ -1,0 +1,91 @@
+{{ partial "headers.html" . }}
+{{ partial "nav.html" . }}  <!-- REMOVE THIS LINE if header.html already includes the navbar -->
+
+<section class="team-section">
+  <div class="container"> <!-- Optional: Wrapper to match your theme's width -->
+
+    <h1 class="title">{{ .Title }}</h1>
+
+    <!-- Faculty Coordinators -->
+    <h2 class="subtitle">Faculty Co-ordinators</h2>
+    <div class="team-grid">
+      {{ range $.Site.Data.team.faculty }}
+      <div class="team-member">
+        <img src="{{ .image | absURL }}" alt="{{ .name }}">
+        <h3>{{ .name }}</h3>
+        <p class="designation">{{ .designation }}</p>
+        <p class="department">{{ .department }}</p>
+      </div>
+      {{ end }}
+    </div>
+
+    <!-- Student Coordinator -->
+    <h2 class="subtitle">Student Co-ordinator</h2>
+    <div class="team-grid">
+      {{ range $.Site.Data.team.student_coordinator }}
+      <div class="team-member">
+        <img src="{{ .image | absURL }}" alt="{{ .name }}">
+        <h3>{{ .name }}</h3>
+        <p class="designation">{{ .designation }}</p>
+      </div>
+      {{ end }}
+    </div>
+
+    <!-- Pravaha Teams -->
+    <h2 class="subtitle">Pravaha Core Team / Pravaha Team Leads</h2>
+    {{ range $.Site.Data.team.pravaha_teams }}
+    <div class="team-category">
+      <h3>{{ .title }}</h3>
+      <div class="team-grid">
+        {{ range .members }}
+        <div class="team-member">
+          <img src="{{ .image | absURL }}" alt="{{ .name }}">
+          <h4>{{ .name }}</h4>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+  </div>
+</section>
+
+<!-- Inline CSS to ensure layout works immediately -->
+<style>
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 30px;
+  margin-bottom: 40px;
+}
+.team-member {
+  text-align: center;
+  padding: 15px;
+  border: 1px solid #eee; /* Optional styling */
+  border-radius: 8px;
+}
+.team-member img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+.team-member h3, .team-member h4 {
+  margin: 10px 0 5px;
+  font-size: 1.1em;
+}
+.designation {
+  font-size: 0.9em;
+  color: #666;
+  margin-bottom: 0;
+}
+.subtitle {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 10px;
+}
+</style>
+
+{{ partial "footer.html" . }}
