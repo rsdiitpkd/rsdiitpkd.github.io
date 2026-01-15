@@ -7,7 +7,7 @@
     <h1 class="title">{{ .Title }}</h1>
 
     <!-- Faculty Coordinators -->
-    <h2 class="subtitle">Faculty Co-ordinators</h2>
+    <h2 class="subtitle">Faculty Coordinators</h2>
     <div class="team-grid">
       {{ range $.Site.Data.team.faculty }}
       <div class="team-member">
@@ -20,7 +20,7 @@
     </div>
 
     <!-- Student Coordinator -->
-    <h2 class="subtitle">Student Co-ordinator</h2>
+    <h2 class="subtitle">Student Coordinator</h2>
     <div class="team-grid">
       {{ range $.Site.Data.team.student_coordinator }}
       <div class="team-member">
@@ -32,7 +32,7 @@
     </div>
 
     <!-- Pravaha Teams -->
-    <h2 class="subtitle">Pravaha Core Team / Pravaha Team Leads</h2>
+    <h2 class="subtitle">Pravaha Team Leads</h2>
     {{ range $.Site.Data.team.pravaha_teams }}
     <div class="team-category">
       <h3>{{ .title }}</h3>
