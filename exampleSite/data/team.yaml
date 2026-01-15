@@ -26,7 +26,8 @@ pravaha_teams:
       - name: "Ajay Krishnan V"
         image: "/hugo-universal-theme/img/team/ajay-krishnan.jpg"
       - name: "Kiran C"
-        image: "/hugo-universal-theme/img/team/kiran-c.jpg"
+        image: "/hugo-universal-theme/img/team/avatar-default.png"
+        image_todo: "/hugo-universal-theme/img/team/kiran-c.jpg"
 
   - title: "Sponsorship Team"
     members:
@@ -50,20 +51,23 @@ pravaha_teams:
   - title: "Cultural Events Team"
     members:
       - name: "Aiswarya G R"
-        image: "/hugo-universal-theme/img/team/aiswarya-gr.jpg"
+        image: "/hugo-universal-theme/img/team/avatar-default.png"
+        image_todo: "/hugo-universal-theme/img/team/aiswarya-gr.jpg"
       - name: "Amish Kumar Aman"
         image: "/hugo-universal-theme/img/team/amish-kumar.jpg"
 
   - title: "Venue Management & Hospitality Team"
     members:
       - name: "Anand Praveen"
-        image: "/hugo-universal-theme/img/team/anand-praveen.jpg"
+        image: "/hugo-universal-theme/img/team/avatar-default.png"
+        image_todo: "/hugo-universal-theme/img/team/anand-praveen.jpg"
       - name: "Athira Manoharan"
         image: "/hugo-universal-theme/img/team/athira-manoharan.jpg"
 
   - title: "Merchandise Team"
     members:
       - name: "Hrithik Suresh"
-        image: "/hugo-universal-theme/img/team/hrithik-suresh.jpg"
+        image: "/hugo-universal-theme/img/team/avatar-default.png"
+        image_todo: "/hugo-universal-theme/img/team/hrithik-suresh.jpg"
       - name: "Pranav U S"
         image: "/hugo-universal-theme/img/team/pranav-us.jpg"
