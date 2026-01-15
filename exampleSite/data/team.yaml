@@ -50,9 +50,8 @@ pravaha_teams:
 
   - title: "Cultural Events Team"
     members:
-      - name: "Aiswarya G R"
-        image: "img/team/avatar-default.png"
-        image_todo: "img/team/aiswarya-gr.jpg"
+      - name: "Aiswaria G R"
+        image: "img/team/aiswaria-gr.jpg"
       - name: "Amish Kumar Aman"
         image: "img/team/amish-kumar.jpg"
 
