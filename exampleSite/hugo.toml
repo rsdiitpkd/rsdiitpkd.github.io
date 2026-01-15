@@ -44,10 +44,7 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "menu.attractions"
     post       = 1
-[[menu.main]]
-  name = "Our Team"
-  pageRef = "/team"
-  weight = 4
+
 [[menu.main]]
     name       = "Research Talks"
     url        = "/attractions/research-talks"
@@ -90,16 +87,15 @@ pluralizelisttitles = false
     weight     = 2
 
 [[menu.main]]
-    name       = "Our Team"
+    name       = "Team"
     url        = ""
-    weight     = 10
-    parent     = "about"
+    weight     = 80
 
 [[menu.main]]
     name       = "FAQ"
     identifier = "menu.faq"
     url        = "/faq/"
-    weight     = 7
+    weight     = 70
 
 [[menu.main]]
     name       = "submit"
@@ -111,7 +107,7 @@ pluralizelisttitles = false
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 8
+    weight     = 100
 
 
 # Top bar social links menu
