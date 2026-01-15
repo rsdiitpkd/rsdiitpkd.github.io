@@ -48,6 +48,14 @@ pravaha_teams:
       - name: "Nandakumar E"
         image: "img/team/nandakumar-e.jpg"
 
+  - title: "Media Team"
+    members:
+      - name: "Deepak Babu"
+        image: "img/team/avatar-default.png"
+        image_TODO: "img/team/deepak-babu.jpg"
+      - name: "Issac J"
+        image: "img/team/issac-j.jpg"
+
   - title: "Cultural Events Team"
     members:
       - name: "Aiswaria G R"
