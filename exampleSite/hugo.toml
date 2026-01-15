@@ -88,7 +88,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Team"
-    url        = ""
+    url        = "/team/"
     weight     = 80
 
 [[menu.main]]
