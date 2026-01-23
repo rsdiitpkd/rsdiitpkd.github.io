@@ -1,0 +1,12 @@
+weight: 5
+title: "Pre-event Workshops"
+description: >
+  <ul>
+  <li>3D Printing</li>
+  <li>Python for Data Science</li>
+  <li>Docker</li>
+  <li>Mobile Robots and Manipulator Design</li>
+  <li>Design for Additive Manufacturing</li>
+  </ul>
+image: "img/iitpkd/carousel/workshops.jpg"
+href: "attractions/workshops"
