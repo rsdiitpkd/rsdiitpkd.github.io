@@ -1,6 +1,10 @@
 /* your styles go here */
 /* Example site test */
 
+:root {
+  --primary-accent: #053c79;
+}
+
 .box-image-text .image {
     min-height: 190px;
     max-height: 190px;
