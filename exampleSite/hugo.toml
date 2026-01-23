@@ -39,44 +39,50 @@ pluralizelisttitles = false
     weight     = 3
 
 [[menu.main]]
+    name       = "Pre-event Workshops"
+    url        = "/attractions/workshops"
+    parent     = "menu.attractions"
+    weight     = 1
+
+[[menu.main]]
     name       = "Expert Talks"
     url        = "/attractions/expert-talks"
-    weight     = 1
+    weight     = 10
     parent     = "menu.attractions"
     post       = 1
 
 [[menu.main]]
     name       = "Research Talks"
     url        = "/attractions/research-talks"
-    weight     = 1
+    weight     = 15
     parent     = "menu.attractions"
     post       = 1
 
 [[menu.main]]
     name       = "Flash Talks"
     url        = "/attractions/flash-talks"
-    weight     = 1
+    weight     = 20
     parent     = "menu.attractions"
     post       = 1
 
 [[menu.main]]
     name       = "Poster Presentation"
     url        = "/attractions/poster"
-    weight     = 1
+    weight     = 25
     parent     = "menu.attractions"
     post       = 1
 
 [[menu.main]]
     name       = "Panel Discussions"
     url        = "/attractions/panel-discussions"
-    weight     = 1
+    weight     = 30
     parent     = "menu.attractions"
     post       = 1
 
 [[menu.main]]
     name       = "Intro to Departments"
     url        = "/attractions/intro-to-depts"
-    weight     = 1
+    weight     = 35
     parent     = "menu.attractions"
     post       = 1
 
