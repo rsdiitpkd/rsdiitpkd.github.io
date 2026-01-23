@@ -8,7 +8,7 @@ Workshops on the following topics are conducted as part of pre-RSD events:
 Sat, 14 Feb 2026:
 
 * 3D Printing [[Poster]](../../img/iitpkd/workshops/3d-printing.jpg)
-* Python [[Poster]](../../img/iitpkd/workshops/python.jpg)
+* Python for Data Science [[Poster]](../../img/iitpkd/workshops/python.jpg)
 * Docker [[Poster]](../../img/iitpkd/workshops/docker.jpg)
 
 Sun, 15 Feb 2026:
