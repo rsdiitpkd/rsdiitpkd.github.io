@@ -13,6 +13,8 @@ Please follow these guidelines and templates while making submissions for RSD 8.
 
 For External Participants:
 
+- Abstract Submission Deadline: 8 Feb 2026
+- Acceptance Mail By: 15 Feb 2026 (details about the registration and the poster submission will be in the mail)
 - [LaTeX Template](../downloads/poster/RSD_POSTER_TEMPLATE_EXT.zip)
 - [pptx Template](../downloads/poster/RSD_8_POSTER_EXT.pptx)
 - [📤&#xFE0E; Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSeDsilpsbfi60MVCYhQ9OJPFVHEYbbsSvVLIWWEg-IlS7G_vg/viewform)
