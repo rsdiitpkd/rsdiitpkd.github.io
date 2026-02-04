@@ -1,6 +1,7 @@
 +++
 title = "Flash Talks"
 type = "page"
+image = "../../img/iitpkd/attractions/flash-talk-2.JPG"
 +++
 
 Feynman once said, “If you cannot explain something in simple terms, you don’t understand it.” If you have a knack for breaking down complex theories into simple, relatable ideas, then Flash Talks are your perfect stage.

@@ -1,6 +1,7 @@
 +++
 title = "Research Talks"
 type = "page"
+image = "../../img/iitpkd/attractions/research-talk-1.JPG"
 +++
 
 Ready to share your research with a wider audience? A Research Talk is the perfect stage for you. This session allows you to deliver a concise presentation of your work—highlighting your methods, strategies, results, and the technologies or innovations behind your study. It offers an excellent opportunity to make the audience aware of the depth and impact of your research.

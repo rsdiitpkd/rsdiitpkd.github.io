@@ -29,6 +29,11 @@
                     <div class="col-md-12">
 
                         <div>
+													{{ if isset .Params "image" }}
+
+														<img src="{{ .Params.image }}" style="float: left; margin-right: 2em; margin-bottom: 1em">
+
+													{{ end }}
                           {{ .Content }}
                         </div>
 
