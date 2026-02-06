@@ -26,8 +26,7 @@ pravaha_teams:
       - name: "Ajay Krishnan V"
         image: "img/team/ajay-krishnan.jpg"
       - name: "Kiran C"
-        image: "img/team/avatar-default.png"
-        image_todo: "img/team/kiran-c.jpg"
+        image: "img/team/kiran.jpg"
 
   - title: "Sponsorship Team"
     members:
@@ -51,8 +50,7 @@ pravaha_teams:
   - title: "Media Team"
     members:
       - name: "Deepak Babu"
-        image: "img/team/avatar-default.png"
-        image_TODO: "img/team/deepak-babu.jpg"
+        image: "img/team/deepak-babu.jpg"
       - name: "Issac J"
         image: "img/team/issac-j.jpg"
 
@@ -66,8 +64,7 @@ pravaha_teams:
   - title: "Venue Management & Hospitality Team"
     members:
       - name: "Anand Praveen"
-        image: "img/team/avatar-default.png"
-        image_todo: "img/team/anand-praveen.jpg"
+        image: "img/team/anand.jpg"
       - name: "Athira Manoharan"
         image: "img/team/athira-manoharan.jpg"
 
