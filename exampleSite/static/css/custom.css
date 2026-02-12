@@ -65,3 +65,7 @@
   border-radius: 50%;
   object-fit: cover;
 }
+
+.team-category #volunteers {
+	text-align: center;
+}

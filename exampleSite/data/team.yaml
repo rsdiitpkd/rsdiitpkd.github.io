@@ -20,13 +20,14 @@ pravaha_teams:
         image: "img/team/jithin-das.jpg"
       - name: "Athira S"
         image: "img/team/athira-s.jpg"
-
+    volunteers: Ajju R Justus, Fathima Zarina, Arthy K, Sreelekshmi M S
   - title: "Poster Presentation Team"
     members:
       - name: "Ajay Krishnan V"
         image: "img/team/ajay-krishnan.jpg"
       - name: "Kiran C"
         image: "img/team/kiran.jpg"
+    volunteers: Abitha A, Muhammad Usman A H, Mohan Raj P, Harikrishnan S
 
   - title: "Sponsorship Team"
     members:
@@ -41,11 +42,13 @@ pravaha_teams:
         image: "img/team/athul-krishna.jpg"
       - name: "Devika V"
         image: "img/team/devika-v.jpg"
+    volunteers: Medha R, Nijash N, Anjana S, Athira Sathyan
 
   - title: "Website & Pre-events Team"
     members:
       - name: "Nandakumar E"
         image: "img/team/nandakumar-e.jpg"
+    volunteers: Hari Govind S
 
   - title: "Media Team"
     members:
@@ -53,6 +56,7 @@ pravaha_teams:
         image: "img/team/deepak-babu.jpg"
       - name: "Issac J"
         image: "img/team/issac-j.jpg"
+    volunteers: Vyga M, Kashyapi Ghosh, Akhil Ridhi, Blessy B., Aashish EV, Tamoghna Kar
 
   - title: "Cultural Events Team"
     members:
@@ -67,6 +71,7 @@ pravaha_teams:
         image: "img/team/anand.jpg"
       - name: "Athira Manoharan"
         image: "img/team/athira-manoharan.jpg"
+    volunteers: Neethu M, Cipriyano, Hibu Munku
 
   - title: "Merchandise Team"
     members:
@@ -74,3 +79,4 @@ pravaha_teams:
         image: "img/team/hrithik-suresh.jpg"
       - name: "Pranav U S"
         image: "img/team/pranav-us.jpg"
+    volunteers: Vidhya S, Thomas John
