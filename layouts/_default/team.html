@@ -32,7 +32,7 @@
     </div>
 
     <!-- Pravaha Teams -->
-    <h2 class="subtitle">Pravaha Team Leads</h2>
+    <h2 class="subtitle">Pravaha Core Team</h2>
     <div class="team-categories">
 	    {{ range $.Site.Data.team.pravaha_teams }}
 		  <div class="team-category">
@@ -45,6 +45,9 @@
 		      </div>
 		      {{ end }}
 		    </div>
+		    {{ if .volunteers }}
+		    <p id="volunteers"><b>Volunteers:</b> {{ .volunteers }}</p>
+		    {{ end }}
 		  </div>
 	    {{ end }}
 	  </div>
