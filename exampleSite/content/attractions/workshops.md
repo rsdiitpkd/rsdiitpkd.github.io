@@ -3,7 +3,7 @@ title = "Pre-event Workshops"
 type = "page"
 +++
 
-Workshops on the following topics are conducted as part of pre-RSD events:
+Workshops on the following topics are conducted as part of pre-RSD events. Registration has been closed.
 
 Sat, 14 Feb 2026:
 
@@ -15,11 +15,3 @@ Sun, 15 Feb 2026:
 
 * Mobile Robots and Manipulator Design [[Poster]](../../img/iitpkd/workshops/robot.jpg)
 * Design for Additive Manufacturing [[Poster]](../../img/iitpkd/workshops/additive.jpg)
-
-The registration fee is Rs. 500.
-
-## Register
-
-[Click here to register.](https://payments.billdesk.com/bdcollect/bd/centreforcontinuingeducationiitpalakkad/19173)
-
-The link is common for all workshops. There is a drop-down in the form from where the participants can select the needed workshop.
