@@ -93,6 +93,20 @@ pluralizelisttitles = false
     weight     = 2
 
 [[menu.main]]
+    identifier = "brochure"
+    name       = "Brochure"
+    url        = "/downloads/iitpkd-rsd8-brochure.pdf"
+    parent     = 'about'
+    weight     = 2
+
+[[menu.main]]
+    identifier = "schedule"
+    name       = "Schedule"
+    url        = "/downloads/iitpkd-rsd8-schedule.pdf"
+    parent     = 'about'
+    weight     = 3
+
+[[menu.main]]
     name       = "Team"
     url        = "/team/"
     weight     = 80
