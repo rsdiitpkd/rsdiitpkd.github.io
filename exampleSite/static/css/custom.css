@@ -69,3 +69,15 @@
 .team-category #volunteers {
 	text-align: center;
 }
+
+.sponsor-logo-container {
+    display: flex;
+    justify-content: center;
+}
+
+img.sponsor-logo {
+    margin: 2em;
+    object-fit: contain;
+    max-width: 360px;
+    max-height: 200px;
+}
