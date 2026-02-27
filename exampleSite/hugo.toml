@@ -88,8 +88,15 @@ pluralizelisttitles = false
 
 [[menu.main]]
     identifier = "about"
+    name       = "Information"
+    url        = "/about/"
+    weight     = 2
+
+[[menu.main]]
+    identifier = "about.about"
     name       = "About RSD"
     url        = "/about/"
+    parent     = 'about'
     weight     = 2
 
 [[menu.main]]
@@ -97,14 +104,14 @@ pluralizelisttitles = false
     name       = "Brochure"
     url        = "/downloads/iitpkd-rsd8-brochure.pdf"
     parent     = 'about'
-    weight     = 2
+    weight     = 3
 
 [[menu.main]]
     identifier = "schedule"
     name       = "Schedule"
     url        = "/downloads/iitpkd-rsd8-schedule.pdf"
     parent     = 'about'
-    weight     = 3
+    weight     = 4
 
 [[menu.main]]
     name       = "Team"
